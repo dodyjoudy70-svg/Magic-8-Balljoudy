@@ -22,3 +22,4 @@ respones=[
 ]
 def get_random_response():
     return random.choice(respones)
+get_random_respones()   
