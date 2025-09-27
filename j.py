@@ -1,0 +1,6 @@
+print("wrtie content")
+print("welcome python programm")
+print("welcome python programm")
+print("welcome python programm")
+print("welcome python programm")
+print("welcome python programm")
